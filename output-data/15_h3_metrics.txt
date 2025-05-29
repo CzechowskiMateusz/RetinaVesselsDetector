@@ -1,0 +1,9 @@
+Macierz pomy³ek (confusion matrix):
+[[1867747   16588]
+ [ 148633   13368]]
+TP: 13368, FP: 16588, FN: 148633, TN: 1867747
+Trafnoœæ (accuracy): 0.9193
+Czu³oœæ (sensitivity): 0.0825
+Swoistoœæ (specificity): 0.9912
+Œrednia arytmetyczna: 0.5369
+Œrednia geometryczna: 0.2860

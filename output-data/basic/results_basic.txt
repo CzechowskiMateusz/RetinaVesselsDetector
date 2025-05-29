@@ -1,0 +1,22 @@
+
+===== Obraz 01 =====
+Macierz pomy³ek:
+[[7307173   44283]
+ [ 602694  231194]]
+Accuracy: 0.9210
+Sensitivity: 0.2772
+Specificity: 0.9940
+Œr. arytm. (Sens & Spec): 0.6356
+Œr. geom. (Sens & Spec): 0.5250
+
+===== Obraz 02 =====
+Macierz pomy³ek:
+[[7344436   32470]
+ [ 547225  261213]]
+Accuracy: 0.9292
+Sensitivity: 0.3231
+Specificity: 0.9956
+Œr. arytm. (Sens & Spec): 0.6594
+Œr. geom. (Sens & Spec): 0.5672
+
+===== Obraz 03 =====
